@@ -6,3 +6,7 @@ Projeto Mobile Scan do Google Vision em flutter desenvolvido pela comunidade GDG
 + Flutter
 + Cloud Functions (firebase)
 
+
+
+Especificação funcional
+# http://bit.ly/gdg-requisito-flutter
